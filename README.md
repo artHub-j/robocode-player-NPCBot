@@ -5,6 +5,6 @@ Robocode player + team strategy. Quarter finals in our class Robocode Competitio
 
 ## Team Strategy
 
-## Results against our classmates
+## Results against classmates
 
 ![robocodeTorneigClass](https://github.com/artHub-j/robocode-player-NPCBot/assets/92806890/1ae16acd-4b79-447a-8213-3f47116211e7)
