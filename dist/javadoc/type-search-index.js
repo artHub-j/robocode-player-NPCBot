@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"edu.upc.epsevg.prop.robocode","l":"BotEnemic"},{"p":"edu.upc.epsevg.prop.robocode","l":"DadesEnemic"},{"p":"edu.upc.epsevg.prop.robocode","l":"NPCbot"},{"p":"edu.upc.epsevg.prop.robocode","l":"NPCbotLider"},{"p":"edu.upc.epsevg.prop.robocode","l":"PredatorRobot"}];updateSearchResults();
