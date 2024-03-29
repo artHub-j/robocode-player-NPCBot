@@ -17,18 +17,18 @@ Once all possible robots have been scanned, we go through the HashMap and look f
 
 ## Authors
 
-<table border="6">
+<table border="2">
   <tr>
     <td align="center">
       <a href="https://github.com/artHub-j">
-        <img src="https://github.com/CulturaLink/culturalink-main/assets/92806890/416f28b8-f634-4ce7-ad76-b383863d5774" width="75px;" alt="artHub-j"/><br>
+        <img src="https://github.com/artHub-j/robocode-player-NPCBot/assets/92806890/09794230-7b69-4d66-a416-1c7675225999" width="75px;" alt="artHub-j"/><br>
         <sub><b>@artHub-j</b></sub>
       </a><br/>
       <sub>Arturo Aragón</sub>
     </td> <!-- --------------------------------------------------------------------------------------------------------------------------------------- -->
     <td align="center">
       <a href="https://github.com/FerranEJ/">
-        <img src="https://github.com/CulturaLink/culturalink-main/assets/92806890/afbe2348-87fe-47f9-809e-19de349a8b6b" width="75px;" alt="FerranEJ"/><br>
+        <img src="https://github.com/artHub-j/robocode-player-NPCBot/assets/92806890/1329896d-8a9c-41a6-8081-65a5fb73e7de" width="75px;" alt="FerranEJ"/><br>
         <sub><b>@FerranEJ</b></sub>
       </a><br/>
       <sub>Ferran Escala</sub>
